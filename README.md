@@ -1,7 +1,6 @@
 # Meeting Summarizer
 
 Upload a meeting recording, get a transcript + summary + editable action items back.
-Fully local — SQLite on disk, no auth, no cloud database.
 
 ## Stack
 - **ASR + LLM:** Groq API ("openai/gpt-oss-120b"), one API key for both.
